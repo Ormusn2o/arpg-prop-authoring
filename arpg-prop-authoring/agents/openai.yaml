@@ -1,0 +1,6 @@
+interface:
+  display_name: "ARPG Prop Authoring"
+  short_description: "Grounded props, foliage, materials and arrangements"
+  default_prompt: "Use $arpg-prop-authoring to create or revise the requested ARPG scenery within the approved task scope."
+policy:
+  allow_implicit_invocation: true
